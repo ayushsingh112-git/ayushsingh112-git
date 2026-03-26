@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm Ayush Singh
 
-<!--
-**ayushsingh112-git/ayushsingh112-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Diploma Student (Final Year)  
+💻 Aspiring Web Developer  
+🚀 Currently learning HTML, CSS, JavaScript  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- HTML
+- CSS
+- JavaScript (Basic)
+- C / C++ (Basic)
+
+---
+
+## 📚 Currently Learning
+- JavaScript Advanced
+- Git & GitHub
+- Web Development Projects
+
+---
+
+## 🎯 Goals
+- Get my first job in IT sector
+- Become a Full Stack Developer
+- Build real-world projects
+
+---
+
+## 📫 Contact Me
+- Email: your-email@gmail.com  
+
+---
+
+⭐ Learning step by step and growing every day
