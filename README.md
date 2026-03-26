@@ -29,7 +29,7 @@
 ---
 
 ## 📫 Contact Me
-- Email: your-email@gmail.com  
+- Email: ayushsinghrathore820@gmail.com  
 
 ---
 
