@@ -6,11 +6,18 @@
 
 ---
 
-## 🛠️ Languages and Tools:
+## 🛠️ Languages, Web & Tools:
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,cpp,c,python" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,mongodb,express,react,nodejs,linux,vscode" />
 </p>
+
+### 📌 Details:
+- 🐍 Python (Basic)  
+- 🌐 Web: HTML, CSS, JavaScript, MERN Stack, REST API Integration  
+- 🛠️ Tools: VS Code, Browser DevTools, MS Office  
+- 💻 OS: Windows, Linux (Basic)
+
 ---
 
 ## 📚 Currently Learning
