@@ -12,7 +12,7 @@
 * CSS
 * JavaScript (Basic)
 * C / C++ (Basic)
-
+![My Skills](https://skillicons.dev/icons?i=python,cpp,html,css,js,tensorflow,pytorch,sklearn,opencv)
 ---
 
 ## 📚 Currently Learning
