@@ -9,7 +9,7 @@
 ## 🛠️ Languages and Tools:
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,full stack,c,python" />
+<img src="https://skillicons.dev/icons?i=html,css,js,cpp,c,python" />
 </p>
 ---
 
