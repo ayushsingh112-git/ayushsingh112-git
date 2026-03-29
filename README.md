@@ -12,7 +12,11 @@
 * CSS
 * JavaScript (Basic)
 * C / C++ (Basic)
-![My Skills](https://skillicons.dev/icons?i=python,cpp,html,css,js,tensorflow,pytorch,sklearn,opencv)
+## 🛠️ Languages and Tools:
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,cpp,c,python" />
+</p>
 ---
 
 ## 📚 Currently Learning
