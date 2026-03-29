@@ -30,11 +30,7 @@
 * Build real-world, impactful projects
 
 ---
-
-
-            <>< 18.275 0 33.091 2.872 33.091 6.417z"></path>
-            </svg>
-          
+      
 ## 🔗 LinkedIn
 
 * https://www.linkedin.com/in/ayush-singh-rathore-622317282
